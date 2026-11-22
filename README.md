@@ -64,7 +64,7 @@ The repository contains the assembly source code, project files, required assets
 ## Team Members
 
 - Nitesh Kumar
-- [Add Team Member Name]
+- Vainkut Kumar
 
 ## Acknowledgment
 
